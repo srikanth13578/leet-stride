@@ -40,4 +40,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srikanth13578/leet-stride/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/srikanth13578/leet-stride/tree/main/0258-add-digits/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/srikanth13578/leet-stride/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/srikanth13578/leet-stride/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
