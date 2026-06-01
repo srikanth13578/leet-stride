@@ -52,4 +52,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/srikanth13578/leet-stride/tree/main/0258-add-digits/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3110-score-of-a-string](https://github.com/srikanth13578/leet-stride/tree/main/3110-score-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
