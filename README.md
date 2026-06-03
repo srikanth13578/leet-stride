@@ -69,4 +69,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/srikanth13578/leet-stride/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/srikanth13578/leet-stride/tree/main/0207-course-schedule/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/srikanth13578/leet-stride/tree/main/0207-course-schedule/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/srikanth13578/leet-stride/tree/main/0207-course-schedule/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/srikanth13578/leet-stride/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
