@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/srikanth13578/leet-stride/tree/main/0011-container-with-most-water/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srikanth13578/leet-stride/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/srikanth13578/leet-stride/tree/main/0169-majority-element/) | Easy |
+| [0209-minimum-size-subarray-sum](https://github.com/srikanth13578/leet-stride/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/srikanth13578/leet-stride/tree/main/0217-contains-duplicate/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -56,4 +57,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3110-score-of-a-string](https://github.com/srikanth13578/leet-stride/tree/main/3110-score-of-a-string/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/srikanth13578/leet-stride/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/srikanth13578/leet-stride/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/srikanth13578/leet-stride/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
