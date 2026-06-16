@@ -14,12 +14,14 @@
 | [0169-majority-element](https://github.com/srikanth13578/leet-stride/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/srikanth13578/leet-stride/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/srikanth13578/leet-stride/tree/main/0217-contains-duplicate/) | Easy |
+| [1655-distribute-repeating-integers](https://github.com/srikanth13578/leet-stride/tree/main/1655-distribute-repeating-integers/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/srikanth13578/leet-stride/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/srikanth13578/leet-stride/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/srikanth13578/leet-stride/tree/main/0217-contains-duplicate/) | Easy |
+| [1655-distribute-repeating-integers](https://github.com/srikanth13578/leet-stride/tree/main/1655-distribute-repeating-integers/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,11 +45,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/srikanth13578/leet-stride/tree/main/0169-majority-element/) | Easy |
+| [1655-distribute-repeating-integers](https://github.com/srikanth13578/leet-stride/tree/main/1655-distribute-repeating-integers/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/srikanth13578/leet-stride/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srikanth13578/leet-stride/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [1655-distribute-repeating-integers](https://github.com/srikanth13578/leet-stride/tree/main/1655-distribute-repeating-integers/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,4 +106,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/srikanth13578/leet-stride/tree/master/0014-longest-common-prefix) |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1655-distribute-repeating-integers](https://github.com/srikanth13578/leet-stride/tree/main/1655-distribute-repeating-integers/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1655-distribute-repeating-integers](https://github.com/srikanth13578/leet-stride/tree/main/1655-distribute-repeating-integers/) | Hard |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1655-distribute-repeating-integers](https://github.com/srikanth13578/leet-stride/tree/main/1655-distribute-repeating-integers/) | Hard |
 <!---LeetCode Topics End-->
