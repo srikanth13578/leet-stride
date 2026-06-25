@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/srikanth13578/leet-stride/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srikanth13578/leet-stride/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/srikanth13578/leet-stride/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/srikanth13578/leet-stride/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/srikanth13578/leet-stride/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/srikanth13578/leet-stride/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srikanth13578/leet-stride/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -56,6 +57,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/srikanth13578/leet-stride/tree/main/0048-rotate-image/) | Medium |
 | [0258-add-digits](https://github.com/srikanth13578/leet-stride/tree/main/0258-add-digits/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -120,4 +122,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1655-distribute-repeating-integers](https://github.com/srikanth13578/leet-stride/tree/main/1655-distribute-repeating-integers/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/srikanth13578/leet-stride/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
