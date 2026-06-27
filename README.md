@@ -12,6 +12,7 @@
 | [0048-rotate-image](https://github.com/srikanth13578/leet-stride/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/srikanth13578/leet-stride/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/srikanth13578/leet-stride/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/srikanth13578/leet-stride/tree/main/0078-subsets/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srikanth13578/leet-stride/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/srikanth13578/leet-stride/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/srikanth13578/leet-stride/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -113,10 +114,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/srikanth13578/leet-stride/tree/main/0051-n-queens/) | Hard |
+| [0078-subsets](https://github.com/srikanth13578/leet-stride/tree/main/0078-subsets/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/srikanth13578/leet-stride/tree/main/1655-distribute-repeating-integers/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/srikanth13578/leet-stride/tree/main/0078-subsets/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/srikanth13578/leet-stride/tree/main/1655-distribute-repeating-integers/) | Hard |
 ## Bitmask
 | Problem Name | Difficulty |
