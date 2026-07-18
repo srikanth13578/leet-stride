@@ -25,6 +25,7 @@
 | [0001-two-sum](https://github.com/srikanth13578/leet-stride/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/srikanth13578/leet-stride/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/srikanth13578/leet-stride/tree/main/0217-contains-duplicate/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/srikanth13578/leet-stride/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1655-distribute-repeating-integers](https://github.com/srikanth13578/leet-stride/tree/main/1655-distribute-repeating-integers/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -49,6 +50,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/srikanth13578/leet-stride/tree/main/0169-majority-element/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/srikanth13578/leet-stride/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1655-distribute-repeating-integers](https://github.com/srikanth13578/leet-stride/tree/main/1655-distribute-repeating-integers/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -73,6 +75,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/srikanth13578/leet-stride/tree/master/0014-longest-common-prefix) |
+| [0387-first-unique-character-in-a-string](https://github.com/srikanth13578/leet-stride/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [3110-score-of-a-string](https://github.com/srikanth13578/leet-stride/tree/main/3110-score-of-a-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -131,4 +134,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/srikanth13578/leet-stride/tree/main/0048-rotate-image/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/srikanth13578/leet-stride/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
