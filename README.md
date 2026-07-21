@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srikanth13578/leet-stride/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/srikanth13578/leet-stride/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/srikanth13578/leet-stride/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/srikanth13578/leet-stride/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/srikanth13578/leet-stride/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/srikanth13578/leet-stride/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/srikanth13578/leet-stride/tree/main/0078-subsets/) | Medium |
@@ -23,6 +24,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/srikanth13578/leet-stride/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/srikanth13578/leet-stride/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/srikanth13578/leet-stride/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/srikanth13578/leet-stride/tree/main/0217-contains-duplicate/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/srikanth13578/leet-stride/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -44,6 +46,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/srikanth13578/leet-stride/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/srikanth13578/leet-stride/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/srikanth13578/leet-stride/tree/main/0217-contains-duplicate/) | Easy |
 ## Counting
@@ -75,6 +78,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/srikanth13578/leet-stride/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/srikanth13578/leet-stride/tree/main/0049-group-anagrams/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/srikanth13578/leet-stride/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [3110-score-of-a-string](https://github.com/srikanth13578/leet-stride/tree/main/3110-score-of-a-string/) | Easy |
 ## Binary Search
