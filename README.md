@@ -72,6 +72,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/srikanth13578/leet-stride/tree/main/0048-rotate-image/) | Medium |
 | [0258-add-digits](https://github.com/srikanth13578/leet-stride/tree/main/0258-add-digits/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/srikanth13578/leet-stride/tree/main/2413-smallest-even-multiple/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +82,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/srikanth13578/leet-stride/tree/main/0258-add-digits/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/srikanth13578/leet-stride/tree/main/2413-smallest-even-multiple/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
