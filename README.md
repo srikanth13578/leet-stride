@@ -110,6 +110,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/srikanth13578/leet-stride/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0207-course-schedule](https://github.com/srikanth13578/leet-stride/tree/main/0207-course-schedule/) | Medium |
 | [1462-course-schedule-iv](https://github.com/srikanth13578/leet-stride/tree/main/1462-course-schedule-iv/) | Medium |
 ## Breadth-First Search
@@ -180,4 +181,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/srikanth13578/leet-stride/tree/main/0912-sort-an-array/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/srikanth13578/leet-stride/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/srikanth13578/leet-stride/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/srikanth13578/leet-stride/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
