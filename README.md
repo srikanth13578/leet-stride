@@ -20,6 +20,7 @@
 | [0217-contains-duplicate](https://github.com/srikanth13578/leet-stride/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/srikanth13578/leet-stride/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/srikanth13578/leet-stride/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/srikanth13578/leet-stride/tree/main/0912-sort-an-array/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/srikanth13578/leet-stride/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1929-concatenation-of-array](https://github.com/srikanth13578/leet-stride/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
@@ -47,6 +48,7 @@
 | [0053-maximum-subarray](https://github.com/srikanth13578/leet-stride/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/srikanth13578/leet-stride/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/srikanth13578/leet-stride/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/srikanth13578/leet-stride/tree/main/0912-sort-an-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +56,7 @@
 | [0169-majority-element](https://github.com/srikanth13578/leet-stride/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/srikanth13578/leet-stride/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/srikanth13578/leet-stride/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/srikanth13578/leet-stride/tree/main/0912-sort-an-array/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,12 +158,26 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/srikanth13578/leet-stride/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/srikanth13578/leet-stride/tree/main/0912-sort-an-array/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/srikanth13578/leet-stride/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/srikanth13578/leet-stride/tree/main/0912-sort-an-array/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/srikanth13578/leet-stride/tree/master/0347-top-k-frequent-elements) |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/srikanth13578/leet-stride/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/srikanth13578/leet-stride/tree/main/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/srikanth13578/leet-stride/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
